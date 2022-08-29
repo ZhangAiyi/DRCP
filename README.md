@@ -1,3 +1,3 @@
 # DRCP
-a demo code for the dimensionality reduction TRPCA method
-The code would be released when the paper is accepted.
+# A demo code for the dimensionality reduction TRPCA method based on CP decomposition.
+# The code would be released when the paper is accepted.
